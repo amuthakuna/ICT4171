@@ -1,0 +1,38 @@
+Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/one.py ================
+Hello, World!
+Hello
+World
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/one.py ================
+10
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/one.py ================
+Name is  Priya
+Name is Priya
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/one.py ================
+15
+5 10
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/one.py ================
+<class 'int'>
+<class 'str'>
+<class 'float'>
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/one.py ================
+10
+10
+10.0
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/one.py ================
+10
+20
+30
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/one.py ================
+10
+10
+10
