@@ -1,0 +1,51 @@
+Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py ================
+apple
+banana
+cherry
+random.randrange(1, 10) Two Tries
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py ================
+9
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py ================
+5
+
+r.randrange(1, 100) Two Tries
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py ================
+69
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py ================
+82
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py ================
+True
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py ================
+False
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py ================
+True
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py ================
+False
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py ================
+True
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py ================
+False
+========================================================== RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py =========================================================
+True
+
+========================================================== RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py =========================================================
+False
+  
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py ================
+False
+========================================================== RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py =========================================================
+True
+
+========================================================== RESTART: C:/Users/Tharmila/Desktop/ica1/Two.py =========================================================
+False
