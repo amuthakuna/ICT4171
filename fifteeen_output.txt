@@ -1,0 +1,28 @@
+Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/Fifteen.py ==============
+['cherry', 'Kiwi', 'Orange', 'banana']
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/Fifteen.py ==============
+['banana', 'kiwi', 'mango', 'orange', 'pineapple']
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/Fifteen.py ==============
+[23, 50, 65, 82, 100]
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/Fifteen.py ==============
+['pineapple', 'orange', 'mango', 'kiwi', 'banana']
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/Fifteen.py ==============
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/Fifteen.py ==============
+Traceback (most recent call last):
+  File "C:/Users/Tharmila/Desktop/ica1/Fifteen.py", line 30, in <module>
+    thislist.sort(key = myfunc)
+NameError: name 'myfunc' is not defined
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/Fifteen.py ==============
+['Kiwi', 'Orange', 'banana', 'cherry']
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/Fifteen.py ==============
+['banana', 'cherry', 'Kiwi', 'Orange']
