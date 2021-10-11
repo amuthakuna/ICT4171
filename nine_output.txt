@@ -1,0 +1,33 @@
+Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Nine.py ===============
+John#Peter#Vicky
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Nine.py ===============
+name#country
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Nine.py ===============
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Nine.py ===============
+Age is 25. Height is 160
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Nine.py ===============
+Age is 25. Height is 160
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Nine.py ===============
+I want to pay 49.95 dollars for 3 pieces of item 567.
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Nine.py ===============
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Nine.py ===============
+Hello Pam!
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Nine.py ===============
+Hello Pam!
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Nine.py ===============
+Hi Joe!
+
+================ RESTART: C:/Users/Tharmila/Desktop/ica1/Nine.py ===============
+G i Joe!
