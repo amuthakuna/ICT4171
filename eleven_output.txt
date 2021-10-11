@@ -1,0 +1,46 @@
+Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eleven.py ==============
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eleven.py ==============
+[1, 2, 3, 4, 5]
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eleven.py ==============
+(1, 2, 3, 4, 5)
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eleven.py ==============
+{1, 2, 3, 4, 5}
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eleven.py ==============
+{'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5}
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eleven.py ==============
+Traceback (most recent call last):
+  File "C:/Users/Tharmila/Desktop/ica1/Eleven.py", line 27, in <module>
+    print(a)
+NameError: name 'a' is not defined
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eleven.py ==============
+['apple', 'banana', 'cherry']
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eleven.py ==============
+('apple', 'banana', 'cherry')
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eleven.py ==============
+{'banana', 'cherry', 'apple'}
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eleven.py ==============
+{'x': 7, 'y': 4}
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eleven.py ==============
+{'x': 7, 'y': 4}
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eleven.py ==============
+{'x': 7, 'y': 4}
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eleven.py ==============
+{'x': 7, 'y': 4, 'z': 11}
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eleven.py ==============
+{'x': 7, 'y': 4, 'z': 11}
