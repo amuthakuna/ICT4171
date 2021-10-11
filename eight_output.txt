@@ -1,0 +1,37 @@
+Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eight.py ===============
+HELLO, WORLD!
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eight.py ===============
+hello, world!
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eight.py ===============
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eight.py ===============
+Hello, World!
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eight.py ===============
+Jello, World!
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eight.py ===============
+['Hello', ' World!']
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eight.py ===============
+2
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eight.py ===============
+1
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eight.py ===============
+1
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eight.py ===============
+8
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eight.py ===============
+7
+
+=============== RESTART: C:/Users/Tharmila/Desktop/ica1/Eight.py ===============
+-1
