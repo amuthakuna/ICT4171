@@ -1,0 +1,32 @@
+Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+============= RESTART: C:/Users/Tharmila/Desktop/ica1/Eightteen.py =============
+{'name': 'Jhon', 'age': 24, 'gender': 'male'} 
+
+{'name': 'Jhon', 'age': 24, 'gender': 'male'} 
+
+
+============= RESTART: C:/Users/Tharmila/Desktop/ica1/Eightteen.py =============
+{'name': 'Jhon', 'age': 24, 'gender': 'male'} 
+
+
+============= RESTART: C:/Users/Tharmila/Desktop/ica1/Eightteen.py =============
+Jhon 
+
+
+============= RESTART: C:/Users/Tharmila/Desktop/ica1/Eightteen.py =============
+Jhon 
+
+
+============= RESTART: C:/Users/Tharmila/Desktop/ica1/Eightteen.py =============
+dict_keys(['name', 'age', 'gender']) 
+
+
+============= RESTART: C:/Users/Tharmila/Desktop/ica1/Eightteen.py =============
+dict_values(['Jhon', 24, 'male']) 
+
+
+============= RESTART: C:/Users/Tharmila/Desktop/ica1/Eightteen.py =============
+dict_items([('name', 'Jhon'), ('age', 24), ('gender', 'male')]) 
+
