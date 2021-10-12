@@ -1,0 +1,42 @@
+Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/nineteen.py =============
+{'name': 'Jhon', 'age': 24, 'gender': 'male', 'DOB': '1997-02-09'} 
+
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/nineteen.py =============
+{'name': 'Mala', 'age': 24, 'gender': 'male'} 
+
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/nineteen.py =============
+{'name': 'Jhon', 'age': 24, 'gender': 'Female'} 
+
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/nineteen.py =============
+Traceback (most recent call last):
+  File "C:/Users/Tharmila/Desktop/ica1/nineteen.py", line 37, in <module>
+    d.pop('DOB')
+KeyError: 'DOB'
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/nineteen.py =============
+{'name': 'Mala', 'age': 24, 'gender': 'male'} 
+
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/nineteen.py =============
+{'age': 24, 'gender': 'male', 'DOB': '1997-02-09'} 
+
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/nineteen.py =============
+{'name': 'Mala', 'age': 24, 'gender': 'male'} 
+
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/nineteen.py =============
+{} 
+
+
+============== RESTART: C:/Users/Tharmila/Desktop/ica1/nineteen.py =============
+Traceback (most recent call last):
+  File "C:/Users/Tharmila/Desktop/ica1/nineteen.py", line 82, in <module>
+    print(d,'\n')
+NameError: name 'd' is not defined. Did you mean: 'id'?
